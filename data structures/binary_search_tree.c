@@ -4,6 +4,10 @@
     Worst case: O(n)
     Best case: O(n)
 
+  Node:
+    value of the node
+    pointer to left node - left is less than value
+    pointer to right node - right is greater than value
 
   Pseudo Code:
     Searching:
