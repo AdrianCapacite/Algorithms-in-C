@@ -8,6 +8,8 @@
 // Print array
 #define PrintArray(A, size) printf("{ "); for (int i = 0; i < size-1; i++) printf("%d, ", A[i]); printf("%d }\n", A[size-1]);
 
+#define PrintArrayRange(A, low, high) printf("{ "); for (int i = low; i < high-1; i++) printf("%d, ", A[i]); printf("%d }\n", A[high-1]);
+
 int key = 8; // value: 8
 
 // sorted array

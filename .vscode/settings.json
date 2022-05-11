@@ -2,6 +2,14 @@
   "files.associations": {
     "time.h": "c",
     "testlib.h": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "bit": "c",
+    "initializer_list": "c",
+    "string": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "xmemory": "c",
+    "xstring": "c",
+    "xutility": "c"
   }
 }
